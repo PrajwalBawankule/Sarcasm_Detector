@@ -18,7 +18,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.server">
+  <component name="RunManager" selected="Python.sarcasm_detection">
     <configuration name="sarcasm_detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.server" />
         <item itemvalue="Python.sarcasm_detection" />
+        <item itemvalue="Python.server" />
         <item itemvalue="Python.sarcasm_detector" />
         <item itemvalue="Python.sarcasm_detection" />
       </list>
